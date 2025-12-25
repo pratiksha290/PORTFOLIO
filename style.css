@@ -20,7 +20,7 @@ footer {
   padding: 10px;
 }
 
-/* ===== Bugfix Branch: Footer Alignment Fix ===== */
+
 
 footer {
     text-align: center;
@@ -30,7 +30,7 @@ footer {
     bottom: 0;
     width: 100%;
 }
-/* ===== Experiment Branch: New Theme & Animation ===== */
+
 
 body {
     background-color: #f4f6fb;
@@ -48,7 +48,7 @@ section {
     margin: 20px;
 }
 
-/* Simple animation */
+
 @keyframes fadeIn {
     from {
         opacity: 0;
