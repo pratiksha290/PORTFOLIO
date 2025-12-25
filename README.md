@@ -38,3 +38,9 @@ I am actively seeking **data analyst / analytics internship opportunities**.
 
 ## 📂 Project Structure
 
+PORTFOLIO/
+│
+├── index.html # Main portfolio webpage
+├── style.css # Styling and layout
+├── script.js # JavaScript functionality
+└── README.md # Project documentation
