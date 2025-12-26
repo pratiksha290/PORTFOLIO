@@ -1,46 +1,101 @@
-# 🌐 Pratiksha Sharma | Portfolio Website
+🌐 Portfolio – A Personal Web Identity
 
-This repository contains my **personal portfolio website**, built to showcase my
-education, technical skills, projects, and achievements as a **Computer Science
-Engineering student and aspiring Data Analyst**.
+This repository contains my personal portfolio website, developed as part of the course INT331 – Fundamentals of DevOps.
+The project represents my professional web identity and showcases my academic background, technical skills, projects, and achievements.
 
-The portfolio is designed to be clean, responsive, and professional, and is
-hosted using **GitHub Pages**.
+The complete development process follows DevOps practices using Git Bash and GitHub, including version control, branching, merging, and deployment.
 
----
+🚀 Live Website
 
-## 🚀 Live Website
+🔗 Portfolio Link:
+👉 https://pratiksha290.github.io/PORTFOLIO/
 
-🔗 **Portfolio Link:**  
-https://pratiksha290.github.io/PORTFOLIO/
+👩‍💻 About the Project
 
----
+In today’s digital era, having an online presence is essential for students and professionals. A personal portfolio website provides a single platform to present skills, projects, and achievements in a structured and professional manner.
 
-## 👩‍💻 About Me
+This project focuses on building a clean, responsive, and user-friendly portfolio website using modern web technologies.
+It also emphasizes Git and GitHub-based project management, making it a practical implementation of DevOps fundamentals.
 
-I am a Computer Science Engineering student with a strong interest in **data
-analysis, data visualization, and analytics**. I enjoy working with real-world
-datasets and building dashboards to extract meaningful insights using tools like
-Python, Excel, and Power BI.
+🎯 Objectives
 
-I am actively seeking **data analyst / analytics internship opportunities**.
+To design and develop a visually appealing and responsive portfolio website.
 
----
+To showcase academic background, technical skills, certifications, and projects.
 
-## 🛠️ Technologies Used
+To gain hands-on experience with Git version control (commits, branches, merges, conflict resolution).
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Styling:** Modern CSS (Gradients, Animations)  
-- **Tools:** Git, GitHub, GitHub Pages  
-- **Editor:** Visual Studio Code  
+To learn GitHub remote operations such as push, pull, clone, and repository hosting.
 
----
+To prepare professional documentation using Markdown (README.md).
 
-## 📂 Project Structure
+To deploy the project online using GitHub Pages.
+
+🛠️ Technologies & Tools Used
+
+Frontend: HTML5, CSS3, JavaScript
+
+Styling: Modern CSS (Gradients, Animations, Responsive Design, Dark/Light Mode)
+
+Version Control: Git Bash
+
+Platform: GitHub, GitHub Pages
+
+Code Editor: Visual Studio Code
+
+🔀 Git Branching Strategy
+
+To ensure organized and clean development, multiple Git branches were used:
+
+feature branch – Used for adding new sections such as About, Skills, Projects, and Contact.
+
+test branch – Used to test layout changes, responsiveness, and navigation.
+
+bugfix branch – Used to fix issues like broken links, alignment problems, and CSS errors.
+
+experiment branch – Used for experimenting with themes, fonts, animations, and design ideas.
+
+Only stable and successful changes were merged into the main branch.
 
 PORTFOLIO/
 │
-├── index.html # Main portfolio webpage
-├── style.css # Styling and layout
-├── script.js # JavaScript functionality
-└── README.md # Project documentation
+├── index.html    # Main portfolio webpage
+├── style.css     # Styling, themes, and layout
+├── script.js     # JavaScript functionality
+└── README.md     # Project documentation
+
+📌 Scope of the Project
+
+Development of a multi-section portfolio website (Home, About, Skills, Projects, Contact).
+
+Implementation of responsive design for different screen sizes.
+
+Practical usage of Git Bash for version control.
+
+Hosting and deployment using GitHub Pages.
+
+Preparation of structured project documentation.
+
+✅ Expected Outcomes
+
+A fully functional and responsive portfolio website.
+
+Practical understanding of Git and GitHub workflows.
+
+Experience with branching, merging, and conflict resolution.
+
+A live hosted website accessible to anyone.
+
+Improved understanding of DevOps fundamentals.
+
+📚 References
+
+Official Git Documentation
+
+GitHub Guides
+
+W3Schools (HTML, CSS, JavaScript)
+
+MDN Web Docs
+
+Visual Studio Code Documentation
