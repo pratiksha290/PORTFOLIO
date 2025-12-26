@@ -1,9 +1,9 @@
-🌐 Portfolio – A Personal Web Identity
+🌐 Personal Portfolio Website
 
 This repository contains my personal portfolio website, developed as part of the course INT331 – Fundamentals of DevOps.
 The project represents my professional web identity and showcases my academic background, technical skills, projects, and achievements.
 
-The complete development process follows DevOps practices using Git Bash and GitHub, including version control, branching, merging, and deployment.
+The complete development process follows DevOps best practices, using Git Bash and GitHub for version control, branching, merging, and deployment.
 
 🚀 Live Website
 
@@ -12,81 +12,103 @@ The complete development process follows DevOps practices using Git Bash and Git
 
 👩‍💻 About the Project
 
-In today’s digital era, having an online presence is essential for students and professionals. A personal portfolio website provides a single platform to present skills, projects, and achievements in a structured and professional manner.
+In today’s digital era, having an online presence is essential for students and professionals. A personal portfolio website provides a centralized platform to present skills, projects, and accomplishments in a structured and professional manner.
 
 This project focuses on building a clean, responsive, and user-friendly portfolio website using modern web technologies.
-It also emphasizes Git and GitHub-based project management, making it a practical implementation of DevOps fundamentals.
+Additionally, it serves as a practical implementation of DevOps fundamentals, including Git-based version control and GitHub Pages deployment.
 
 🎯 Objectives
 
-To design and develop a visually appealing and responsive portfolio website.
+Design and develop a visually appealing and responsive portfolio website
 
-To showcase academic background, technical skills, certifications, and projects.
+Showcase academic background, technical skills, certifications, and projects
 
-To gain hands-on experience with Git version control (commits, branches, merges, conflict resolution).
+Gain hands-on experience with Git version control (commits, branches, merges, conflict resolution)
 
-To learn GitHub remote operations such as push, pull, clone, and repository hosting.
+Learn GitHub remote operations such as push, pull, clone, and repository hosting
 
-To prepare professional documentation using Markdown (README.md).
+Create professional documentation using Markdown (README.md)
 
-To deploy the project online using GitHub Pages.
+Deploy the project online using GitHub Pages
 
 🛠️ Technologies & Tools Used
+Frontend
 
-Frontend: HTML5, CSS3, JavaScript
+HTML5
 
-Styling: Modern CSS (Gradients, Animations, Responsive Design, Dark/Light Mode)
+CSS3
 
-Version Control: Git Bash
+JavaScript
 
-Platform: GitHub, GitHub Pages
+Styling
 
-Code Editor: Visual Studio Code
+Modern CSS (Gradients, Animations, Responsive Design)
+
+Dark / Light Mode support
+
+DevOps & Tools
+
+Git Bash (Version Control)
+
+GitHub & GitHub Pages
+
+Visual Studio Code (Code Editor)
 
 🔀 Git Branching Strategy
 
-To ensure organized and clean development, multiple Git branches were used:
+To ensure organized and maintainable development, multiple Git branches were used:
 
-feature branch – Used for adding new sections such as About, Skills, Projects, and Contact.
+feature branch – Added new sections such as About, Skills, Projects, and Contact
 
-test branch – Used to test layout changes, responsiveness, and navigation.
+test branch – Tested layout changes, responsiveness, and navigation
 
-bugfix branch – Used to fix issues like broken links, alignment problems, and CSS errors.
+bugfix branch – Fixed issues like broken links, alignment problems, and CSS errors
 
-experiment branch – Used for experimenting with themes, fonts, animations, and design ideas.
+experiment branch – Experimented with themes, fonts, animations, and design ideas
 
-Only stable and successful changes were merged into the main branch.
+Only stable and tested changes were merged into the main branch.
 
+📂 Project Structure
 PORTFOLIO/
 │
-├── index.html    # Main portfolio webpage
-├── style.css     # Styling, themes, and layout
-├── script.js     # JavaScript functionality
-└── README.md     # Project documentation
+├── index.html     # Main portfolio webpage
+├── style.css      # Styling, themes, and layout
+├── script.js      # JavaScript functionality
+└── README.md      # Project documentation
 
 📌 Scope of the Project
 
-Development of a multi-section portfolio website (Home, About, Skills, Projects, Contact).
+Development of a multi-section portfolio website:
 
-Implementation of responsive design for different screen sizes.
+Home
 
-Practical usage of Git Bash for version control.
+About
 
-Hosting and deployment using GitHub Pages.
+Skills
 
-Preparation of structured project documentation.
+Projects
+
+Contact
+
+Implementation of responsive design for multiple screen sizes
+
+Practical use of Git Bash for version control
+
+Hosting and deployment using GitHub Pages
+
+Preparation of structured and professional documentation
 
 ✅ Expected Outcomes
 
-A fully functional and responsive portfolio website.
+A fully functional and responsive portfolio website
 
-Practical understanding of Git and GitHub workflows.
+Practical understanding of Git and GitHub workflows
 
-Experience with branching, merging, and conflict resolution.
+Experience with branching, merging, and conflict resolution
 
-A live hosted website accessible to anyone.
+A live hosted website accessible publicly
 
-Improved understanding of DevOps fundamentals.
+Improved understanding of DevOps fundamentals
 
 📚 References
 
